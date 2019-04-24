@@ -24,3 +24,9 @@ docker-compose up
 docker-compose up -d
 
 ```
+
+#### Run Unit Testing
+
+```sh
+yarn run test
+```
